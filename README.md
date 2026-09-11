@@ -1,0 +1,1 @@
+**Profit Loss Journal** is a lightweight trading tracker designed to log trades, calculate net PnL, and monitor win rates in real time. Features include a dynamic box view scaled by trade size, detailed tabular history, local browser storage, and a mobile-friendly dark theme—perfect for tracking forex, crypto, and market setups on the go.
